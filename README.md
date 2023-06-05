@@ -1,3 +1,7 @@
+# Data Structures
+
+This is my homework for data structures in the second semester of my first year of college. Below is an explanation for each file attached.
+
 Anagrams.cpp - 
 
 BinarySearchTree.cpp - implementation of a binary search tree;
